@@ -1,0 +1,10 @@
+{"id": "q_test_001", "business_id": "biz_001", "question": "sp bán dc nhiều nhất tuần rồi là gì", "as_of_date": "2026-03-04"}
+{"id": "q_test_002", "business_id": "biz_001", "question": "Tháng này bán chạy nhất mặt hàng gì?", "as_of_date": "2026-03-15"}
+{"id": "q_test_003", "business_id": "biz_001", "question": "Tuần rồi bán được bao nhiêu ly trà sữa?", "as_of_date": "2026-03-04"}
+{"id": "q_test_004", "business_id": "biz_001", "question": "Còn ai nợ tiền chưa trả?", "as_of_date": "2026-03-04"}
+{"id": "q_test_005", "business_id": "biz_002", "question": "Thuốc nào sắp hết hạn trong kho?", "as_of_date": "2026-03-04"}
+{"id": "q_test_006", "business_id": "biz_001", "question": "doanh thu thang nay so voi cung ky nam ngoai tang giam bao nhieu %", "as_of_date": "2026-03-15"}
+{"id": "q_test_007", "business_id": "biz_001", "question": "top 3 khách mua nhiều nhất quý trước", "as_of_date": "2026-04-10"}
+{"id": "q_test_008", "business_id": "biz_002", "question": "hôm qua có bán lố nào quá hạn không", "as_of_date": "2026-03-04"}
+{"id": "q_test_009", "business_id": "biz_001", "question": "Tháng 2 lãi gộp được bao nhiêu?", "as_of_date": "2026-03-04"}
+{"id": "q_test_010", "business_id": "biz_001", "question": "ngày nào trong tuần này bán được nhiều nhất", "as_of_date": "2026-03-04"}
